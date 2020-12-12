@@ -13,10 +13,11 @@ author: Mukesh Kumar
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Hire Me: "Resume"
+  #Resources:
+   #- Beautiful Jekyll: "https://beautifuljekyll.com"
+   #- Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://mukku-413.github.io/"
 
 # --- Logo --- #
 
